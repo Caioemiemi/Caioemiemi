@@ -3,7 +3,7 @@
 
 🍪 I’m Student of Information Technology and Amateur Musician :D
 
----
+##
 
 <div align="center">
   <a href="https://github.com/Caioemiemi">
@@ -17,6 +17,7 @@
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Caio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Caio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="right" alt="Caio-Keys" height="150" style="border-radius:50px;" src="https://cdn1.iconfinder.com/data/icons/piano-and-keyboard-set/96/piano_and_friend-13-256.png">
 <img align="left" alt="Caio-Keys" height="150" style="border-radius:50px; transfom: scaleX(-1);" src="https://cdn1.iconfinder.com/data/icons/piano-and-keyboard-set/96/piano_and_friend-11-256.png">
 </div>
