@@ -3,7 +3,7 @@
 
 🍪 I’m Student of Information Technology and Amateur Musician :D
 
-##
+---
 
 <div align="center">
   <a href="https://github.com/Caioemiemi">
